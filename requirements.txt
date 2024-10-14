@@ -1,0 +1,2 @@
+playwright==1.47.0
+scrapegraphai==1.26.5
